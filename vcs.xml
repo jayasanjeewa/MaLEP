@@ -1,0 +1,21 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:uelec/eureca-tool-code.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="jayasanjeewa" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://jayasanjeewa@bitbucket.org/uelec/eureca-tool-code.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="$USER_HOME$/PycharmProjects" />
+  </component>
+</application>
