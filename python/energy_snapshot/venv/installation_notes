@@ -1,0 +1,47 @@
+#Python with Bottle
+
+https://www.digitalocean.com/community/tutorials/how-to-deploy-python-web-applications-with-the-bottle-micro-framework-on-ubuntu-14-04
+
+commands
+> cd /home/rabih/code_deploy/python-app
+> virtualenv --no-site-packages venv
+(python3 -m venv env , in Python 3)
+> source venv/bin/activate
+> pip install bottle
+>  nano code/hello.py
+
+# file contents
+   from bottle import route, run
+
+@route('/hello')
+def hello():
+    return "<h1>Hello World!</h1>"
+
+run(host='0.0.0.0', port=8095)
+
+# run the web app
+> python code/hello.py
+
+> access the page
+http://vps291878.ovh.net:8095/hello
+
+
+
+pip install flask
+pip install bottle_pymysql
+pip install numpy
+pip install scipy
+pip install scikit-learn
+pip install matplotlib
+pip install pandas
+
+pip install Quandl
+pip install sklearn
+
+#command to open a port
+ iptables -I INPUT -p tcp --dport 8095 --syn -j ACCEPT
+
+
+# mechine learning tutorials
+https://pythonprogramming.net/regression-introduction-machine-learning-tutorial/?completed=/machine-learning-tutorial-python-introduction/
+

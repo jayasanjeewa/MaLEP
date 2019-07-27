@@ -1,0 +1,12 @@
+System_Vendor,System_Spec_Name,Processor_Speed,Processor_Cores,Total_Memory,Energy_Consumption
+Supermicro,1022G-NTF,1600,32,32,213
+Acer Incorporated,Gateway GT115 F1,1800,6,8,70.3
+Huawei Technologies,RH2288 V2,1800,16,32,178
+ZT Systems,1224Ra Datacenter Server,1800,12,8,178
+Hewlett-Packard,Proliant DL580 G5,1860,2,4,117
+Acer Incorporated,Gateway GR585 F1,1860,16,8,387
+Acer Incorporated,Altos R360 F2,1900,48,32,524
+Sugon,A620-G30(AMD EPYC 7501),2000,16,8,223
+Huawei Technologies,RH2285 V2,2000,64,8,307
+Inspur Corporation,Inspur NF5280M5,2100,16,8,231
+Inspur Corporation,Inspur Yingxin NF8480M5,2100,56,8,454
